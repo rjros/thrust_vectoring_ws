@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/rjrosales/git/thrust_vectoring_ws/devel/include/**",
+        "/home/rjrosales/simulation_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/rjrosales/git/thrust_vectoring_ws/src/mavros/libmavconn/include/**",
+        "/home/rjrosales/git/thrust_vectoring_ws/src/mavros/mavros/include/**",
+        "/home/rjrosales/git/thrust_vectoring_ws/src/mavros/mavros_msgs/include/**",
+        "/home/rjrosales/git/thrust_vectoring_ws/src/mavros/test_mavros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
