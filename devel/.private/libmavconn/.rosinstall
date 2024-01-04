@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/setup.sh

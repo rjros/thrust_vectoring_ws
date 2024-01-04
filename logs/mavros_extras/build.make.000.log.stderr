@@ -1,0 +1,15 @@
+[01m[K/home/rjrosales/git/thrust_vectoring_ws/src/mavros/mavros_extras/src/plugins/thrust_vectoring_setpoint.cpp:46:32:[m[K [01;31m[Kerror: [m[Kexpected identifier before numeric constant
+   46 |     std::vector <float> angles([01;31m[K6[m[K,0);
+      |                                [01;31m[K^[m[K
+[01m[K/home/rjrosales/git/thrust_vectoring_ws/src/mavros/mavros_extras/src/plugins/thrust_vectoring_setpoint.cpp:46:32:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K...[m[K’ before numeric constant
+[01m[K/home/rjrosales/git/thrust_vectoring_ws/src/mavros/mavros_extras/src/plugins/thrust_vectoring_setpoint.cpp:49:24:[m[K [01;31m[Kerror: [m[KISO C++ forbids declaration of ‘[01m[Kparameter[m[K’ with no type [[01;31m[K-fpermissive[m[K]
+   49 |     void thrust_vec_cb([01;31m[Kconst[m[K )
+      |                        [01;31m[K^~~~~[m[K
+[01m[K/home/rjrosales/git/thrust_vectoring_ws/src/mavros/mavros_extras/src/plugins/thrust_vectoring_setpoint.cpp:49:30:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+   49 |     void thrust_vec_cb(const [01;31m[K)[m[K
+      |                              [01;31m[K^[m[K
+      |                               [32m[K;[m[K
+make[2]: *** [CMakeFiles/mavros_extras.dir/build.make:492: CMakeFiles/mavros_extras.dir/src/plugins/thrust_vectoring_setpoint.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/Makefile2:735: CMakeFiles/mavros_extras.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

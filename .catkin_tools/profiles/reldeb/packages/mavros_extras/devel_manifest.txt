@@ -1,0 +1,8 @@
+mavros/mavros_extras
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/cmake.lock /home/rjrosales/git/thrust_vectoring_ws/devel/./cmake.lock
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/rjrosales/git/thrust_vectoring_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/rjrosales/git/thrust_vectoring_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/lib/libmavros_extras.so /home/rjrosales/git/thrust_vectoring_ws/devel/lib/libmavros_extras.so
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/rjrosales/git/thrust_vectoring_ws/devel/lib/mavros_extras/visualization
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/rjrosales/git/thrust_vectoring_ws/devel/lib/mavros_extras/servo_state_publisher
+/home/rjrosales/git/thrust_vectoring_ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/rjrosales/git/thrust_vectoring_ws/devel/lib/pkgconfig/mavros_extras.pc
