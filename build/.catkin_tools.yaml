@@ -1,6 +1,0 @@
-devel_space: /home/rjrosales/git/thrust_vectoring_ws/devel
-install: false
-install_space: /home/rjrosales/git/thrust_vectoring_ws/install
-profile: reldeb
-source_space: /home/rjrosales/git/thrust_vectoring_ws/src
-workspace: /home/rjrosales/git/thrust_vectoring_ws

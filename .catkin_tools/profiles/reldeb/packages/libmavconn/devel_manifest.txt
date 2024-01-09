@@ -1,7 +1,0 @@
-mavros/libmavconn
-/home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/cmake.lock /home/rjrosales/git/thrust_vectoring_ws/devel/./cmake.lock
-/home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/rjrosales/git/thrust_vectoring_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
-/home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/rjrosales/git/thrust_vectoring_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
-/home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/rjrosales/git/thrust_vectoring_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
-/home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/lib/libmavconn.so /home/rjrosales/git/thrust_vectoring_ws/devel/lib/libmavconn.so
-/home/rjrosales/git/thrust_vectoring_ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/rjrosales/git/thrust_vectoring_ws/devel/lib/pkgconfig/libmavconn.pc
